@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leave us an Audio Guestbook Message!</title>
+    <!-- Redirect to the telephone number with extension -->
+    <meta http-equiv="refresh" content="0;url=tel:+18004373009,93349">
+</head>
+<body>
+    <p>If your browser does not support automatic redirection, <a href="tel:+18004373009,93349">Leave us an Audio Guestbook Message!</a>.</p>
+</body>
+</html>
